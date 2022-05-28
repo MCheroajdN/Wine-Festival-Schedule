@@ -24,4 +24,4 @@ Project is completed as required.
 
 ## Author/Contact
 * M. Christopher
-* GitHub: https://mcheroajdn.github.io/Fashion-Blog/fashionBlog.html
+* GitHub: https://mcheroajdn.github.io/Wine-Festival-Schedule/index.html
